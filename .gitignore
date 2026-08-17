@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+erp_dev.db
+.venv/
+venv/
+*.log
